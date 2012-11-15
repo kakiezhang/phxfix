@@ -1,6 +1,6 @@
 #!/bin/sh
 
-i=1
+i=2
 
 if [ $i = 1 ];
 then
